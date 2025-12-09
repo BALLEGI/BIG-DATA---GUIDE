@@ -1178,8 +1178,6 @@ query = errors_per_service \
 
 ---
 
-**📚 Bon luck pour votre examen QCM! 🚀**
-
 Conseils d'étude:
 - Mémoriser les **commandes essentielles** pour chaque technologie
 - Comprendre les **architectures** (pas juste les commandes)
