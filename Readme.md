@@ -1176,11 +1176,3 @@ query = errors_per_service \
 ✓ **Spark**: RDD lazy, transformations/actions, DAG, narrow/wide dependencies  
 ✓ **Pipeline**: Kafka → Spark → (Redis/HBase/Cassandra)
 
----
-
-Conseils d'étude:
-- Mémoriser les **commandes essentielles** pour chaque technologie
-- Comprendre les **architectures** (pas juste les commandes)
-- Connaître les **cas d'usage** et **trade-offs** de chaque choix
-- Dessiner les **diagrammes** mentalement pour les comprendre
-- Pratiquer avec les **exemples concrets** du cours
