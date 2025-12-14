@@ -1,4 +1,4 @@
-# 📘 BIG DATA - GUIDE COMPLET POUR L'EXAMEN QCM
+# 📘 BIG DATA - GUIDE 
 
 ## Table des matières
 1. **HBASE** — Base orientée colonnes
